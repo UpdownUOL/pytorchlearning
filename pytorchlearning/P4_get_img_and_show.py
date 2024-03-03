@@ -1,4 +1,4 @@
-from read_data import MyData
+from P4_get_img_utils import MyData
 
 root_dir = r"dataset/train"
 ant_label_dir = r"ants"
@@ -16,7 +16,6 @@ img.show()
 img, label = bee_data_set[1]
 
 img.show()
-
 
 img, label = train_data_set[1]
 

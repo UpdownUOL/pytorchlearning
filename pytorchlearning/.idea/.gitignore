@@ -1,0 +1,7 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/pytorchlearning/dataset/
+/pytorchlearning/dataset_CIFAR10/
+/pytorchlearning/dataset_new/
+/pytorchlearning/.idea/
